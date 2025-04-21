@@ -1,5 +1,5 @@
 # Taxi-Fare-Prediction
-Sure! Here's a clean, visually appealing GitHub project description:
+
 
 ---
 
