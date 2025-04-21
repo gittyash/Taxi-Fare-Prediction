@@ -25,4 +25,4 @@ Sample prediction: A 2-mile trip on Friday 5 PM ≈ **$11.34**
 
 ---
 
-Let me know if you want a custom banner or badges added too!
+
